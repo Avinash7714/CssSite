@@ -1,0 +1,66 @@
+body{
+	font-family: 'Merriweather', serif;
+}
+.div1{
+	height:80vh;
+	width: 90%;
+	margin: auto;
+	margin-top: 50px;
+	background-image: url(IMG-20191021-WA0013.jpg);
+	background-size: cover;
+	color: white;
+	padding-top: 50px;
+}
+.div1 h1{
+	text-align: center;
+}
+.innerdiv1{
+	height:50vh;
+	width: 40%;
+	float: left;
+	margin-left: 100px;
+	margin-top: 30px;
+	background-image: url(IMG-20191021-WA0014.jpg);
+	background-size: cover;
+}
+.innerdiv2{
+	height:50vh;
+	width: 40%;
+	float: left;
+	margin-top: 30px;
+	background-color: white;
+	
+}
+.innerdiv2 h1{
+	text-align: center;
+	color: black;	
+}
+.innerdiv2a input{
+	padding: 5px;
+	border-radius: 3px;
+	background-color: #f2f2f2;
+	width: 120px;
+	margin-left: 50px;
+}
+.innerdiv2b input{
+	padding: 5px;
+	width: 100px;
+	background-color: white;
+	margin-left: 50px;
+}
+.innerdiv2c input{
+	padding: 5px;
+	border-radius: 3px;
+	background-color: #f2f2f2;
+	width: 150px;
+	margin-left: 50px;
+}
+.innerdiv2c button{
+	margin-left: 50px;
+	text-align: center;
+	color: white;
+	background-color: #ff5733;
+	padding: 10px 40px;
+	border-radius: 5px;
+	
+}

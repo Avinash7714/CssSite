@@ -1,0 +1,11 @@
+{
+  "name": "csssite",
+  "version": "1.0.0",
+  "description": "project Website based on CSS & HTML.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Avinash M",
+  "license": "ISC"
+}
